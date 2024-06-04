@@ -1,4 +1,4 @@
-# Log-Euclidean
+# avgPSD
 This repository contains the code for the paper *Statistical Analysis of Karcher Means for Random Restricted PSD Matrices*.
 
 ## Usage
