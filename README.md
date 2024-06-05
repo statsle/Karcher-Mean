@@ -1,5 +1,5 @@
 # avgPSD
-This repository contains the code for the paper:
+This repository contains the code for the paper: <br>
 Chen, Li, and Sun (2023). <a href="https://arxiv.org/abs/2302.12426">Statistical Analysis of Karcher Means for Random Restricted PSD Matrices</a>, *AISTATS 2023*. 
 
 
